@@ -1,1 +1,6 @@
-# libraries
+os
+tensorflow
+keras
+opencv-python
+face-recognition
+scipy
